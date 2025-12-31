@@ -1,75 +1,52 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=shining&color=00ffd1&height=200&section=header&text=CODX%20JOURNEY&fontSize=70&animation=fadeIn&theme=tokyonight" />
+</p>
+
 <div align="center">
 
-# 💎 THE OMNI-REACH PROTOCOL 💎
-### 🌐 `LEVEL 17 ACHIEVED` | `GOOGLE CLOUD ARCADE LEGEND` | `PROMPT ENGINEER` 🌐
-
-<img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=250&section=header&text=KAUSTAV%20OFFX&fontSize=80&animation=waving&theme=soft&fontAlignY=40" />
+# ⚡ THE CODÉDEX ARCHIVE
+### 🏆 `CHAPTER 1: COMPLETE` | `STATUS: LEGENDARY` | `2026`
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=500&color=F700FF&center=true&vCenter=true&width=700&lines=INITIATING+CYBER+VAULT...;GOOGLE+CLOUD+ARCADE+LEGEND+STATUS+ACTIVE;SKILLCRAFT+PROMPT+ENGINEER+INTERN;CODING+THE+FUTURE+IN+2026!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=HTML+MASTERY+UNLOCKED;BUILDING+THE+FAVORITE+BAND+HUB;LEVELING+UP+ON+CODEDEX;THE+FUTURE+IS+COMPILED...)]()
 
 ---
-
-### 🔱 ARCHIVE ACCESS: SOCIAL CHANNELS 🔱
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kaustav_offx)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Kaustavoffx)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/yournumber)
-
----
-
 </div>
 
-## 🌌 THE CORE INFRASTRUCTURE (TECH SPECS)
+## 🎸 FEATURED DEPLOYMENT: [PROJECT SONIC]
+**Task:** Create a `band.html` page for your favorite artist using semantic HTML elements.
+
+### ✅ Mission Requirements Fulfilled:
+* [x] **Artist Identity:** Name and high-res album imagery.
+* [x] **Biography:** Short blurb with **bold** and *italic* formatting.
+* [x] **Navigation:** Direct link to the official artist portal.
+* [x] **Lineup:** Unordered list of all band members.
+* [x] **Discography:** Top 5 songs in a ranked ordered list.
+
+---
+
+## 🛠️ THE TECH STACK
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,cpp,py,react,nodejs,nextjs,tailwind,vscode,gcp,figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
 </div>
 
-<br>
+---
+
+## 📊 ANALYTICS & PROGRESS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustavoffx&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&icon_color=FF00FF&border_color=00FFD1&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustavoffx&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00FFD1&text_color=FFFFFF&icon_color=FF00FF&border_color=00FFD1&border_radius=15" height="170"/>
+</div>
+
+---
 
 <div align="center">
+
+### 🐉 CONTRIBUTION LIFELINE
+![Snake animation](https://github-user-contribution-canvas-snake.vercel.app/api/snake?github_user=Kaustavoffx&color_dot=%23161b22&color_snake=%2300FFD1&snake_head_color=%23FF00FF)
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</div>
 
-## 🛡️ CURRENT DEPLOYMENTS
-### 🎸 [PROJECT: SONIC BOOM]
-**Description:** A high-end artist showcase built for the Codédex HTML Mastery challenge.
-* **STATUS:** `LIVE / OPTIMIZED`
-* **CORE:** HTML5 / CSS3 / LEGENDARY VIBES
-* **AESTHETIC:** DARK NEON
-
----
-
-## 📊 NEON-PULSE ANALYTICS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaustavoffx&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=F700FF&text_color=FFFFFF&icon_color=00D1FF&border_color=00D1FF&border_radius=20" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustavoffx&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=F700FF&text_color=FFFFFF&icon_color=00D1FF&border_color=00D1FF&border_radius=20" height="190"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustavoffx&bg_color=0D1117&color=00D1FF&line=F700FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-## 🏆 ACHIEVEMENT UNLOCKED
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaustavoffx&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-### 🐉 THE LEGEND'S LIFELINE
-![Snake animation](https://github-user-contribution-canvas-snake.vercel.app/api/snake?github_user=Kaustavoffx&color_dot=%23161b22&color_snake=%23F700FF&snake_head_color=%2300D1FF)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-**"WE DON'T FOLLOW THE FUTURE, WE COMPILE IT."**
-<br>
-✨ *Generated via the edge of space-time* ✨
-
+**"NO CODE, NO LIFE."**
 </div>
