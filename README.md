@@ -1,72 +1,63 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=NEON%20CODEDEX&fontSize=80&animation=fadeIn&fontAlignY=35&theme=tokyonight"  alt="Header" />
+  <img src="https://capsule-render.vercel.app/render?type=shining&color=auto&height=300&section=header&text=KAUSTAV%20OFFX&fontSize=90&animation=fadeIn&theme=theMatrix" />
 </p>
 
 <div align="center">
 
-# 🌌 THE CYBER-VAULT: WEB DEV JOURNEY
-### ⚡ `Status: Leveling Up` | `Vibe: Cyber-Noir` | `System: Online` ⚡
+# 💎 THE CRYSTAL VAULT v2.0
+### 🌌 `NEON PROTOCOL: ACTIVE` | `Uptime: 99.9%` | `Year: 2026` 🌌
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=BREATHING+CODE...;BUILDING+RESOURCES...;DOMINATING+THE+WEB...;HAPPY+NEW+YEAR+2026!)](https://git.io/typing-svg)
 
 ---
 
-[ ![Followers](https://img.shields.io/github/followers/Kaustavoffx?label=STALKERS&style=for-the-badge&color=bc13fe&logo=github) ](https://github.com/Kaustavoffx)
-[ ![Stars](https://img.shields.io/github/stars/Kaustavoffx/web-dev-codedex?label=ENERGON&style=for-the-badge&color=00d1ff&logo=probot) ](https://github.com/Kaustavoffx/web-dev-codedex)
-[ ![Last Commit](https://img.shields.io/github/last-commit/Kaustavoffx/web-dev-codedex?label=LAST%20SIGNAL&style=for-the-badge&color=ff0055&logo=git) ](https://github.com/Kaustavoffx/web-dev-codedex)
+### 🌠 GLOBAL STATISTICS 🌠
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaustavoffx&theme=tokyonight&hide_border=true&area=true)
 
 ---
+
 </div>
 
-## 🛠️ THE CORE ARCHITECTURE
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaustavoffx&repo=web-dev-codedex&theme=tokyonight&show_owner=true" alt="Repo Card" height="150" />
-</p>
+## 🧬 QUANTUM CORE (TECH STACK)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,cpp,py,react,nodejs,nextjs,tailwind,vscode" />
+</div>
 
-### 🧬 SYSTEM MODULES (TECH STACK)
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML" />
-      <br><b>STRUCTURE</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS" />
-      <br><b>AESTHETICS</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="50" alt="JS" />
-      <br><b>LOGIC</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git" width="50" alt="GIT" />
-      <br><b>TIMELINE</b>
-    </td>
-  </tr>
-</table>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+</div>
+
+## 🛰️ ACTIVE TRANSMISSIONS
+> [!CAUTION]
+> ### 🛡️ PROJECT: BAND SHOWCASE (GOLD EDITION)
+> This module utilizes high-energy HTML components and optimized media assets.
+> - **POWER LEVEL:** `OVER 9000`
+> - **VISUALS:** `GOD TIER`
+> - **ENCRYPTION:** `AES-256-WEB`
 
 ---
 
-## 🏗️ CURRENT MISSIONS
-> [!IMPORTANT]
-> **MISSION 01: THE SONIC SHOWCASE (BAND PAGE)**
-> - Status: `SHINING` 🌟
-> - Components: Semantic HTML, High-Res Assets, Hyperlinks.
-
-> [!TIP]
-> **MISSION 02: THE NEW YEAR PUSH**
-> - Target: Transitioning into CSS & Visual Styling for 2026.
-
----
-
-## 📊 ANALYTICS HUB
+## ⚡ NEON METRICS
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustavoffx&theme=tokyonight&hide_border=true&stroke=bc13fe" alt="Streak Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kaustavoffx&show_icons=true&theme=neon&rank_icon=github&border_radius=10" alt="Kaustav's Stats" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustavoffx&layout=compact&theme=neon&border_radius=10" alt="Top Langs" height="180px" />
 </p>
+
+---
 
 <div align="center">
 
-### 💠 TRANSMISSION END 💠
-**"In the world of code, we are the architects of reality."**
+### 🌌 REPO LIFELINE 🌌
+![Snake animation](https://github-user-contribution-canvas-snake.vercel.app/api/snake?github_user=Kaustavoffx&color_dot=%230a0a0a&color_snake=%2300ffd1&snake_head_color=%23bc13fe)
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/resources/ascii-line.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+**"THE FUTURE IS WRITTEN IN SEMICOLONS."**
+<br>
+📍 *Broadcasted from the Edge of the Web*
 
 </div>
