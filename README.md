@@ -7,15 +7,24 @@
 # ⚡ THE CODÉDEX ARCHIVE
 ### 🏆 `CHAPTER 1: COMPLETE` | `STATUS: LEGENDARY` | `2026`
 
+<a href="https://www.codedex.io/@kaustavch65820" target="_blank">
+  <img src="https://imgur.com/dZ7Qu9K.gif" width="600" alt="Cyber Journey GIF" style="border-radius: 15px; border: 2px solid #00ffd1;">
+</a>
+
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=HTML+MASTERY+UNLOCKED;BUILDING+THE+FAVORITE+BAND+HUB;LEVELING+UP+ON+CODEDEX;THE+FUTURE+IS+COMPILED...)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=HTML+MASTERY+UNLOCKED;COLLECTING+CODEDEX+COINS;LEVELING+UP+ON+CODEDEX;THE+FUTURE+IS+COMPILED...)]()
 
 ---
 </div>
 
 ## 🎸 FEATURED DEPLOYMENT: [PROJECT SONIC]
 **Task:** Create a `band.html` page for your favorite artist using semantic HTML elements.
+
+<p align="left">
+  <img src="https://www.codedex.io/images/coin-cropped.png" width="30" align="center"> 
+  <b>Reward: 20 XP Earned</b>
+</p>
 
 ### ✅ Mission Requirements Fulfilled:
 * [x] **Artist Identity:** Name and high-res album imagery.
@@ -46,6 +55,11 @@
 ### 🐉 CONTRIBUTION LIFELINE
 ![Snake animation](https://github-user-contribution-canvas-snake.vercel.app/api/snake?github_user=Kaustavoffx&color_dot=%23161b22&color_snake=%2300FFD1&snake_head_color=%23FF00FF)
 
+<a href="https://www.codedex.io/@kaustavch65820">
+  <img src="https://img.shields.io/badge/VIEW_MY_CODEDEX_PROFILE-black?style=for-the-badge&logo=codedex&logoColor=white&color=6366f1" />
+</a>
+
+<br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 **"NO CODE, NO LIFE."**
