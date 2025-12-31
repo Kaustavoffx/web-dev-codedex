@@ -1,63 +1,75 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=shining&color=auto&height=300&section=header&text=KAUSTAV%20OFFX&fontSize=90&animation=fadeIn&theme=theMatrix" />
-</p>
-
 <div align="center">
 
-# 💎 THE CRYSTAL VAULT v2.0
-### 🌌 `NEON PROTOCOL: ACTIVE` | `Uptime: 99.9%` | `Year: 2026` 🌌
+# 💎 THE OMNI-REACH PROTOCOL 💎
+### 🌐 `LEVEL 17 ACHIEVED` | `GOOGLE CLOUD ARCADE LEGEND` | `PROMPT ENGINEER` 🌐
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=BREATHING+CODE...;BUILDING+RESOURCES...;DOMINATING+THE+WEB...;HAPPY+NEW+YEAR+2026!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=250&section=header&text=KAUSTAV%20OFFX&fontSize=80&animation=waving&theme=soft&fontAlignY=40" />
 
 ---
 
-### 🌠 GLOBAL STATISTICS 🌠
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaustavoffx&theme=tokyonight&hide_border=true&area=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=500&color=F700FF&center=true&vCenter=true&width=700&lines=INITIATING+CYBER+VAULT...;GOOGLE+CLOUD+ARCADE+LEGEND+STATUS+ACTIVE;SKILLCRAFT+PROMPT+ENGINEER+INTERN;CODING+THE+FUTURE+IN+2026!)](https://git.io/typing-svg)
+
+---
+
+### 🔱 ARCHIVE ACCESS: SOCIAL CHANNELS 🔱
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kaustav_offx)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Kaustavoffx)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/yournumber)
 
 ---
 
 </div>
 
-## 🧬 QUANTUM CORE (TECH STACK)
+## 🌌 THE CORE INFRASTRUCTURE (TECH SPECS)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,cpp,py,react,nodejs,nextjs,tailwind,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,cpp,py,react,nodejs,nextjs,tailwind,vscode,gcp,figma,ps,ai" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </div>
 
-## 🛰️ ACTIVE TRANSMISSIONS
-> [!CAUTION]
-> ### 🛡️ PROJECT: BAND SHOWCASE (GOLD EDITION)
-> This module utilizes high-energy HTML components and optimized media assets.
-> - **POWER LEVEL:** `OVER 9000`
-> - **VISUALS:** `GOD TIER`
-> - **ENCRYPTION:** `AES-256-WEB`
+## 🛡️ CURRENT DEPLOYMENTS
+### 🎸 [PROJECT: SONIC BOOM]
+**Description:** A high-end artist showcase built for the Codédex HTML Mastery challenge.
+* **STATUS:** `LIVE / OPTIMIZED`
+* **CORE:** HTML5 / CSS3 / LEGENDARY VIBES
+* **AESTHETIC:** DARK NEON
 
 ---
 
-## ⚡ NEON METRICS
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kaustavoffx&show_icons=true&theme=neon&rank_icon=github&border_radius=10" alt="Kaustav's Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustavoffx&layout=compact&theme=neon&border_radius=10" alt="Top Langs" height="180px" />
-</p>
+## 📊 NEON-PULSE ANALYTICS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustavoffx&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=F700FF&text_color=FFFFFF&icon_color=00D1FF&border_color=00D1FF&border_radius=20" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustavoffx&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=F700FF&text_color=FFFFFF&icon_color=00D1FF&border_color=00D1FF&border_radius=20" height="190"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaustavoffx&bg_color=0D1117&color=00D1FF&line=F700FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🏆 ACHIEVEMENT UNLOCKED
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaustavoffx&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
+</div>
 
 ---
 
 <div align="center">
 
-### 🌌 REPO LIFELINE 🌌
-![Snake animation](https://github-user-contribution-canvas-snake.vercel.app/api/snake?github_user=Kaustavoffx&color_dot=%230a0a0a&color_snake=%2300ffd1&snake_head_color=%23bc13fe)
+### 🐉 THE LEGEND'S LIFELINE
+![Snake animation](https://github-user-contribution-canvas-snake.vercel.app/api/snake?github_user=Kaustavoffx&color_dot=%23161b22&color_snake=%23F700FF&snake_head_color=%2300D1FF)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-**"THE FUTURE IS WRITTEN IN SEMICOLONS."**
+**"WE DON'T FOLLOW THE FUTURE, WE COMPILE IT."**
 <br>
-📍 *Broadcasted from the Edge of the Web*
+✨ *Generated via the edge of space-time* ✨
 
 </div>
